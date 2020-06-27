@@ -1,0 +1,7 @@
+{
+  "format": "string",
+  "payload": "Hello World, I am Mohamad Osman. \n\nwelcome to my IoT world !!! ",
+  "qos": 0,
+  "timestamp": **************,
+  "topic": "Osman_Project"
+}

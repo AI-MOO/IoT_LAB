@@ -1,0 +1,8 @@
+Arduino can deal with  maximum i/p voltage = 5V
+Arduino boards contain a multichannel, 10-bit analog to digital converter.
+Where, the maximum resolution = 10 bit we can converte this number 
+to more readable value by conversion from binary system to decimal number 
+10 bit = 1024 
+therefor arduino can handle analog signal as integr values from 0 - 1024 
+now by dividing 5 volt / 1024 = 4.9mV
+we get the resolution of analog reading per unit (4.9mV/Unit)  

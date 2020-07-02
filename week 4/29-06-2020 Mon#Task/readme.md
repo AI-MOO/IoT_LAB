@@ -28,4 +28,6 @@ node-red**
 
 **STEP6: copy the link in step 5.2 and enter it in your browser http://127.0.0.1:1880/**
 
+***Note: cmd must be opened with "node-red" during using node-red platform!!!***
+
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/29-06-2020%20Mon%23Task/6.png)

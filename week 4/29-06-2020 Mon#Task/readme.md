@@ -11,7 +11,7 @@ https://nodejs.org/en/**
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/29-06-2020%20Mon%23Task/2.png)
 
 
-**STEP3: open cmd enter the following command to install node-red:
+**STEP3: open cmd, enter the following command to install node-red:
 npm install -g --unsafe-perm node-red**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/29-06-2020%20Mon%23Task/3.png)

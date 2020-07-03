@@ -5,8 +5,7 @@
 
 
 
-**STEP1: after running node-red using cmd, follow the following images to design your dashboard on node-red:
-https://nodejs.org/en/**
+**STEP1: after running node-red using cmd, follow the following images to design your dashboard on node-red:**
 
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/12.png)

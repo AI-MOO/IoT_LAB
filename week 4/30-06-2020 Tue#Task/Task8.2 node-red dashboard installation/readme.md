@@ -1,7 +1,10 @@
 # node-red, ESP8266 LED Control and Steam Sensor data monitoring Using node-red dashboard:
 
 
-** Note: this tutorial is depending on https://github.com/AI-MOO/IoT_LAB/tree/master/week%204/29-06-2020%20Mon%23Task/Task8.1%20node-red%20dashboard%20installation
+** Note: this tutorial is depending on https://github.com/AI-MOO/IoT_LAB/tree/master/week%204/29-06-2020%20Mon%23Task/Task8.1%20node-red%20dashboard%20installation**
+
+
+
 **STEP1: after running node-red using cmd, follow the following images to design your dashboard on node-red:
 https://nodejs.org/en/**
 
@@ -42,7 +45,7 @@ https://nodejs.org/en/**
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/32.png)
 
 **STEP5: download ESP code from: https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/task8.2/task8.2.ino
-and modify ssid and password to your network connection information moreover, if you have any modifications I highlighted and made some comments to modifiable parts**
+and modify ssid and password according to your network connection moreover, if you have any modifications I highlighted and made some comments to modifiable parts**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/33.png)
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/34.png)

@@ -41,7 +41,8 @@ https://nodejs.org/en/**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/32.png)
 
-**STEP5: download ESP code and modify ssid and password to your network connection information moreover, if you have any modifications I highlighted and made some comments to modifiable parts**
+**STEP5: download ESP code from: https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/task8.2/task8.2.ino
+and modify ssid and password to your network connection information moreover, if you have any modifications I highlighted and made some comments to modifiable parts**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/33.png)
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%204/30-06-2020%20Tue%23Task/Task8.2%20node-red%20dashboard%20installation/34.png)

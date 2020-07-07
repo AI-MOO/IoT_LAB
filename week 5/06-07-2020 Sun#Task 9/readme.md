@@ -1,10 +1,11 @@
+
 # Data Analytic Task 9:
 
 **1: Here I have filtered the data to figure out the number of apps has $4.99 price:**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%205/06-07-2020%20Sun%23Task%209/1.png)
 
-**as shown above in the table 72 apps only has $4.99 price among 10842:
+**as shown above in the table 72 apps only has $4.99 price among 10842:**
 
 
 **2: looking for apps has pizza name among the data, we observe that pizza Hut and Domino's Pizza have more than 10 millions downloads:**
@@ -12,15 +13,15 @@
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%205/06-07-2020%20Sun%23Task%209/2.png)
 
 
-**3: filtering the data in terms of Lifestyle and Family categories*
+**3: filtering the data in terms of Lifestyle and Family categories**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%205/06-07-2020%20Sun%23Task%209/3.png)
 
-**4: filtering the according to specific alphabet letters "Ka" **
+**4: filtering the according to specific alphabet letters "Ka"**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%205/06-07-2020%20Sun%23Task%209/4.png)
 
-*5: top five apps in terms of rating among the data**
+**5: top five apps in terms of rating among the data**
 
 ![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%205/06-07-2020%20Sun%23Task%209/5.png)
 

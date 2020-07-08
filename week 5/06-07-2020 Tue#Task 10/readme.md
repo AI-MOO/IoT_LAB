@@ -11,7 +11,7 @@
 
 **3: As shown in image above Top 5 Paid apps categories according to average installations number per app, my insight is: the investment in the following  categories is considered more profitable compared to other categories**
 
-![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%205/06-07-2020%20Sun%23Task%209/4.png)
+![alt text](https://github.com/AI-MOO/IoT_LAB/blob/master/week%205/06-07-2020%20Tue%23Task%2010/4.png)
 
 
 **4: Gaming applications sector is the most profitable among other sectors followed by photography sector**
